@@ -67,7 +67,7 @@ a {
   text-align: center;
 }
 
-.btn:hover {
+.btn:active {
   opacity: 1;
 }
 
